@@ -1,0 +1,50 @@
+# Site wide configuration
+
+title:            小独裁者的国度
+locale:           en_US
+url:              //yinping4256.github.io/myblog
+#url:            //localhost:4000
+
+# Jekyll configuration
+paginate: 8
+paginate_path: "page:num"
+# paginate_path: "nav/Chinese/age:num"
+
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: 小独裁者
+  avatar: bio-photo.jpg
+  bio: "A graduate student at UC San Diego"
+  disqus-shortname: yinping4256
+  twitter: 
+  facebook:
+  google:
+    plus: 
+    analytics: UA-61322849-1
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github:
+  instagram: 
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

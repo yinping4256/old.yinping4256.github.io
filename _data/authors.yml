@@ -1,0 +1,31 @@
+# Authors
+
+#Author Override
+
+#By making use of data files you can assign different authors for each post.
+
+#Start by modifying authors.yml file in the _data folder and add your authors using the following format.
+
+# Authors
+
+#billy_rick:
+#  name: Billy Rick
+#  web: http://thewhip.com
+#  email: billy@rick.com
+#  bio: "What do you want, jewels? I am a very extravagant man."
+ # avatar: bio-photo-2.jpg
+#  twitter: extravagantman
+#  google:
+#    plus: +BillyRick
+
+#cornelius_fiddlebone:
+#  name: Cornelius Fiddlebone
+ # email: cornelius@thewhip.com
+ # bio: "I ordered what?"
+ # avatar: bio-photo.jpg
+ # twitter: rhymeswithsackit
+ # google:
+  #  plus: +CorneliusFiddlebone
+#To assign Billy Rick as an author for our post. We’d add the following YAML front matter to a post:
+
+#author: billy_rick

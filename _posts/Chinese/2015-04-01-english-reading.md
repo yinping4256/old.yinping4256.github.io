@@ -1,0 +1,18 @@
+---
+layout: post
+title: 英语学习笔记
+excerpt: ""
+modified: 2015-04-02
+comments: true
+category: chinese
+image:
+  feature: 
+  credit: 
+  creditlink: 
+---
+It is perfectly feasible for specialists in disciplines other than computer science and computer engineering towrite parallel programs.
+	*other than*: 除了
+	*disciplines other than CS and CE*: 就是除了CS和CE的其他学科
+
+She can **readily** modify her source code to exploit parallel hardware.
+	*readily*: 在这里是“容易地”的意思。它还有“乐意地”的含义。

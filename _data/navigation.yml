@@ -1,0 +1,16 @@
+# Site navigation links
+- title: 首页
+  url: /
+
+- title: 中文文章
+  url: /navs/Chinese/
+
+- title: English
+  url: /navs/English/
+
+- title: 标签(Tags)
+  url: /navs/archived/
+
+- title: About me
+  url: /navs/about/
+

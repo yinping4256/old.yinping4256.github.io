@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">小独裁者的国度</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="//localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="//localhost:4000" />
+<updated>2015-04-04T18:21:30-07:00</updated>
+<id>//localhost:4000/</id>
+<author>
+  <name>小独裁者</name>
+  <uri>//localhost:4000/</uri>
+  
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[英语学习笔记]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/chinese/english-reading/" />
+  <id>//localhost:4000/chinese/english-reading</id>
+  <updated>2015-04-02T00:00:00-00:00</updated>
+  <published>2015-04-01T00:00:00-07:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;It is perfectly feasible for specialists in disciplines other than computer science and computer engineering towrite parallel programs.
+	&lt;em&gt;other than&lt;/em&gt;: 除了
+	&lt;em&gt;disciplines other than CS and CE&lt;/em&gt;: 就是除了CS和CE的其他学科&lt;/p&gt;
+
+&lt;p&gt;She can &lt;strong&gt;readily&lt;/strong&gt; modify her source code to exploit parallel hardware.
+	&lt;em&gt;readily&lt;/em&gt;: 在这里是“容易地”的意思。它还有“乐意地”的含义。&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/chinese/english-reading/&quot;&gt;英语学习笔记&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on April 01, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[CSE 160 (1) hardware]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/english/CSE%20160/" />
+  <id>//localhost:4000/english/CSE 160</id>
+  <updated>2015-04-01T00:00:00-00:00</updated>
+  <published>2015-04-01T00:00:00-07:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;h2 id=&quot;two&quot;&gt;Two&lt;/h2&gt;
+
+&lt;h3 id=&quot;simd&quot;&gt;SIMD&lt;/h3&gt;
+
+&lt;h4 id=&quot;are-simd-processors-general-purposes&quot;&gt;Are SIMD processors general purposes?&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;No.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;shared-data-a-new-storage-class&quot;&gt;Shared data (a new storage class)&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;Synchronization may be needed when updating shared state.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;heap-storage-sometimes-can-be-shared-sometimes-not&quot;&gt;Heap storage sometimes can be shared, sometimes not.&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;It depends on whether the variable is global.
+&lt;/code&gt;&lt;/pre&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/english/CSE%20160/&quot;&gt;CSE 160 (1) hardware&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on April 01, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[jekyll variables]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/english/jekyll%20reference/" />
+  <id>//localhost:4000/english/jekyll reference</id>
+  <updated>2015-03-31T00:00:00-00:00</updated>
+  <published>2015-03-31T00:00:00-07:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;http://jekyllrb.com/docs/variables/&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/english/jekyll%20reference/&quot;&gt;jekyll variables&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on March 31, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[我的第一篇jekyll文章]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/chinese/%E7%AC%AC%E4%B8%80%E7%AF%87jekyll/" />
+  <id>//localhost:4000/chinese/第一篇jekyll</id>
+  <updated>2015-03-30T00:00:00-00:00</updated>
+  <published>2015-03-30T00:00:00-07:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h3&gt;Overview&lt;/h3&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#section&quot; id=&quot;markdown-toc-section&quot;&gt;6个标题&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#section-1&quot; id=&quot;markdown-toc-section-1&quot;&gt;标题1&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-2&quot; id=&quot;markdown-toc-section-2&quot;&gt;标题2&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-3&quot; id=&quot;markdown-toc-section-3&quot;&gt;标题6&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-4&quot; id=&quot;markdown-toc-section-4&quot;&gt;段落&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-5&quot; id=&quot;markdown-toc-section-5&quot;&gt;&lt;strong&gt;加粗&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-6&quot; id=&quot;markdown-toc-section-6&quot;&gt;&lt;em&gt;斜体字&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-7&quot; id=&quot;markdown-toc-section-7&quot;&gt;&lt;code&gt;强调文字&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-8&quot; id=&quot;markdown-toc-section-8&quot;&gt;段落右边插入图片&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-9&quot; id=&quot;markdown-toc-section-9&quot;&gt;上标&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-10&quot; id=&quot;markdown-toc-section-10&quot;&gt;引用文字&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-11&quot; id=&quot;markdown-toc-section-11&quot;&gt;列表&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-12&quot; id=&quot;markdown-toc-section-12&quot;&gt;有序列举&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-13&quot; id=&quot;markdown-toc-section-13&quot;&gt;无序列表&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-14&quot; id=&quot;markdown-toc-section-14&quot;&gt;表格&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-15&quot; id=&quot;markdown-toc-section-15&quot;&gt;引用代码&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-16&quot; id=&quot;markdown-toc-section-16&quot;&gt;按钮&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-17&quot; id=&quot;markdown-toc-section-17&quot;&gt;“注意”&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#section-18&quot; id=&quot;markdown-toc-section-18&quot;&gt;插入图片或者视频&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-19&quot; id=&quot;markdown-toc-section-19&quot;&gt;单个&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-20&quot; id=&quot;markdown-toc-section-20&quot;&gt;两个并列图片&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#section-21&quot; id=&quot;markdown-toc-section-21&quot;&gt;三个图片&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- /#table-of-contents --&gt;
+
+&lt;p&gt;这篇文章列举了markdown的写法。
+更多请参考：&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;http://kramdown.gettalong.org/quickref.html&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;6个标题&lt;/h2&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;标题1&lt;/h1&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;标题2&lt;/h2&gt;
+
+&lt;h6 id=&quot;section-3&quot;&gt;标题6&lt;/h6&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;err&quot;&gt;#&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;heading1&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;##&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;heading2&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;...&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;######&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;heading6&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;段落&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;&lt;strong&gt;加粗&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;o&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;This&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;strong&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;**.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;section-6&quot;&gt;&lt;em&gt;斜体字&lt;/em&gt;&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;This&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;emphasized&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;section-7&quot;&gt;&lt;code&gt;强调文字&lt;/code&gt;&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;err&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;notice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;`&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;section-8&quot;&gt;段落右边插入图片&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;o&quot;&gt;![&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;图像超链接&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;](//&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;localhost&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt;:4000&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;images&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;bio-photo-2&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;.jpg&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pull&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;//localhost:4000/images/bio-photo-2.jpg&quot; alt=&quot;图像超链接&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-9&quot;&gt;上标&lt;/h3&gt;
+&lt;p&gt;这段话出自[^1]&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;这段话出自[^1]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;文章结尾可以引用此标：
+[^1]: &lt;a href=&quot;http://www.joke.com/&quot;&gt;小平语录&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;[^1]: [小平语录](http://www.joke.com/)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;section-10&quot;&gt;引用文字&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To be or not to be; this is a problem. 引用自莎士比亚&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;To&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;be&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;be&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;this&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;is&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;problem&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;引用自莎士比亚&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;section-11&quot;&gt;列表&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-12&quot;&gt;有序列举&lt;/h3&gt;
+&lt;p&gt;直接使用1. 2. 等。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Item one
+    &lt;ol&gt;
+      &lt;li&gt;sub item one&lt;/li&gt;
+      &lt;li&gt;sub item two&lt;/li&gt;
+      &lt;li&gt;sub item three&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;section-13&quot;&gt;无序列表&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;第一项&lt;/li&gt;
+  &lt;li&gt;第二项&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;第一项&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;第二项&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;section-14&quot;&gt;表格&lt;/h2&gt;
+
+&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;//localhost:4000/images/demonstrate_table.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;a href=&quot;/images/demonstrate_table.jpg&quot;&gt;&lt;img src=&quot;/images/demonstrate_table.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;the code for this table&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;section-15&quot;&gt;引用代码&lt;/h2&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;section-16&quot;&gt;按钮&lt;/h2&gt;
+
+&lt;p&gt;使用 &lt;code&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;#&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;btn btn-success&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Primary Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-success&quot;&gt;Success Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-warning&quot;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-danger&quot;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-info&quot;&gt;Info Button&lt;/a&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;section-17&quot;&gt;“注意”&lt;/h2&gt;
+
+&lt;p&gt;用一个方框表示注意&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; 把 &lt;code&gt;{: .notice}&lt;/code&gt; 添加到段落后面，可以强调.&lt;/p&gt;
+
+&lt;h2 id=&quot;section-18&quot;&gt;插入图片或者视频&lt;/h2&gt;
+
+&lt;h4 id=&quot;section-19&quot;&gt;单个&lt;/h4&gt;
+&lt;figure&gt;
+  &lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Flickr 上的图片。&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://www.flickr.com/photos/80901381@N04/7758832526/&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;section-20&quot;&gt;两个并列图片&lt;/h4&gt;
+
+&lt;p&gt;使用 &lt;code&gt;half&lt;/code&gt; class 可以让两个图片并排放，公用一个标题。&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;half&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-1-large.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-1.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-2-large.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-2.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;a href=&quot;http://placehold.it/1200x600.JPG&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;http://placehold.it/1200x600.jpeg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Two images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;section-21&quot;&gt;三个图片&lt;/h4&gt;
+
+&lt;p&gt;使用 &lt;code&gt;third&lt;/code&gt; class 可以让三个图片并排放，公用一个标题。&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;third&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-1.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-2.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-3.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these three images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+  &lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+  &lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+  &lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+  &lt;figcaption&gt;Three images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/chinese/%E7%AC%AC%E4%B8%80%E7%AF%87jekyll/&quot;&gt;我的第一篇jekyll文章&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on March 30, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[湖南人的洛杉矶美食总结(自用)]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/chinese/%E6%B4%9B%E6%9D%89%E7%9F%B6%E7%BE%8E%E9%A3%9F/" />
+  <id>//localhost:4000/chinese/洛杉矶美食</id>
+  <updated>2015-03-22T00:00:00-00:00</updated>
+  <published>2015-03-22T00:00:00-07:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;本人情况：
+湖南人，口味略重。&lt;/p&gt;
+
+&lt;h4 id=&quot;section&quot;&gt;丰茂羊肉串：&lt;/h4&gt;
+&lt;p&gt;3901 W. Olympic Blvd., Los Angeles, CA 90019&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;https://farm8.staticflickr.com/7612/16827417108_a1e0769bcc_o.jpg&quot; title=&quot;fengmao by Ping Yin, on Flickr&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7612/16827417108_a1e0769bcc_o.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; alt=&quot;fengmao&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;&lt;a href=&quot;https://www.flickr.com/photos/132244335@N04/16827417108&quot; title=&quot;fengmao by Ping Yin, on Flickr&quot;&gt;丰茂羊肉串&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;羊肉串$13.99 十串，很好吃；&lt;/p&gt;
+
+&lt;p&gt;鱿鱼串，$8.99 五串，不好吃；&lt;/p&gt;
+
+&lt;p&gt;酸菜羊肉砂锅，$12.99，还可以。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;避风塘：&lt;/h4&gt;
+&lt;p&gt;避风塘(潮楼)潮粤海鲜-Seafood Village&lt;/p&gt;
+
+&lt;p&gt;分店一：9669 Las Tunas Dr，Temple City, CA 91780&lt;/p&gt;
+
+&lt;p&gt;分店二：684 W Garvey Ave，Monterey Park, CA 91754（去的是这家）&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;不建议去吃！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;一共点了三道菜。炒螃蟹，粉丝炒牛肉，生蚝煎饼。&lt;/p&gt;
+
+&lt;p&gt;很不好吃，而且昂贵。&lt;/p&gt;
+
+&lt;p&gt;厨师推荐菜：炒蟹，$14一磅，3磅起售。我们三个人点了3磅，感觉主要是油炸的，不像是炒出来的。味道很淡，不如broiling crab。&lt;/p&gt;
+
+&lt;p&gt;此外，吃到后来感觉居然有点苦。3个人吃依然要打包。由于油太多，没有手套，用手抓得满手都是油，非常不方便。
+另一道厨师推荐菜：粉丝炒牛肉。菜单上图片看起来很让人流口水，结果炒出来大失所望。粉丝很干，牛肉完全没有味道。和大学食堂里面1.5元一道的粉丝炒蛋差不多，可能还不如呢。&lt;/p&gt;
+
+&lt;p&gt;另外，生蚝煎饼（忘记名字了），大概就是煎饼里面加了一点生蚝。味道在前面两个之上，但是性价比依然很低$12.99，很油，不建议点。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;滋味成都：&lt;/h4&gt;
+&lt;p&gt;就是Chengdu Taste&lt;/p&gt;
+
+&lt;p&gt;8548 Valley Blvd Rosemead CA 91770（新店，去的是这家）&lt;/p&gt;
+
+&lt;p&gt;828 w valley blvd Alhambra CA 91801（老店）&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;https://farm8.staticflickr.com/7633/17015187205_52609419e3_o.jpg&quot; title=&quot;fengmao by Ping Yin, on Flickr&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7633/17015187205_52609419e3_o.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; alt=&quot;fengmao&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;&lt;a href=&quot;https://www.flickr.com/photos/132244335@N04/17015187205&quot; title=&quot;fengmao by Ping Yin, on Flickr&quot;&gt;滋味成都&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;性价比低。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;牙签羊肉&lt;/strong&gt;：很好吃，点的人也多。没有失望，但是很贵，分量一般。$14.99&lt;/p&gt;
+
+&lt;p&gt;伤心凉粉：很一般，和别家差不多。价格$6.99。 贵&lt;/p&gt;
+
+&lt;p&gt;藤椒鱼： 就是青椒片鱼，鱼肉是美国的中餐常用的那种，不知道是什么鱼，非常大片，口感很差。$12.99&lt;/p&gt;
+
+&lt;p&gt;子姜牛肉：姜其实很少，牛肉用的还是低档牛肉，口感不好，相信自己做的更好吃。$13.99&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/chinese/%E6%B4%9B%E6%9D%89%E7%9F%B6%E7%BE%8E%E9%A3%9F/&quot;&gt;湖南人的洛杉矶美食总结(自用)&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on March 22, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[LA]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/chinese/%E6%B4%9B%E6%9D%89%E7%9F%B6/" />
+  <id>//localhost:4000/chinese/洛杉矶</id>
+  <updated>2015-03-22T00:00:00-00:00</updated>
+  <published>2015-03-22T00:00:00-07:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;本人情况：
+湖南人，口味略重。&lt;/p&gt;
+
+&lt;h4 id=&quot;section&quot;&gt;丰茂羊肉串：&lt;/h4&gt;
+&lt;p&gt;3901 W. Olympic Blvd., Los Angeles, CA 90019&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;https://farm8.staticflickr.com/7612/16827417108_a1e0769bcc_o.jpg&quot; title=&quot;fengmao by Ping Yin, on Flickr&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7612/16827417108_a1e0769bcc_o.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; alt=&quot;fengmao&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;&lt;a href=&quot;https://www.flickr.com/photos/132244335@N04/16827417108&quot; title=&quot;fengmao by Ping Yin, on Flickr&quot;&gt;丰茂羊肉串&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;羊肉串$13.99 十串，很好吃；&lt;/p&gt;
+
+&lt;p&gt;鱿鱼串，$8.99 五串，不好吃；&lt;/p&gt;
+
+&lt;p&gt;酸菜羊肉砂锅，$12.99，还可以。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;避风塘：&lt;/h4&gt;
+&lt;p&gt;避风塘(潮楼)潮粤海鲜-Seafood Village&lt;/p&gt;
+
+&lt;p&gt;分店一：9669 Las Tunas Dr，Temple City, CA 91780&lt;/p&gt;
+
+&lt;p&gt;分店二：684 W Garvey Ave，Monterey Park, CA 91754（去的是这家）&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;不建议去吃！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;一共点了三道菜。炒螃蟹，粉丝炒牛肉，生蚝煎饼。&lt;/p&gt;
+
+&lt;p&gt;很不好吃，而且昂贵。&lt;/p&gt;
+
+&lt;p&gt;厨师推荐菜：炒蟹，$14一磅，3磅起售。我们三个人点了3磅，感觉主要是油炸的，不像是炒出来的。味道很淡，不如broiling crab。&lt;/p&gt;
+
+&lt;p&gt;此外，吃到后来感觉居然有点苦。3个人吃依然要打包。由于油太多，没有手套，用手抓得满手都是油，非常不方便。
+另一道厨师推荐菜：粉丝炒牛肉。菜单上图片看起来很让人流口水，结果炒出来大失所望。粉丝很干，牛肉完全没有味道。和大学食堂里面1.5元一道的粉丝炒蛋差不多，可能还不如呢。&lt;/p&gt;
+
+&lt;p&gt;另外，生蚝煎饼（忘记名字了），大概就是煎饼里面加了一点生蚝。味道在前面两个之上，但是性价比依然很低$12.99，很油，不建议点。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;滋味成都：&lt;/h4&gt;
+&lt;p&gt;就是Chengdu Taste&lt;/p&gt;
+
+&lt;p&gt;8548 Valley Blvd Rosemead CA 91770（新店，去的是这家）&lt;/p&gt;
+
+&lt;p&gt;828 w valley blvd Alhambra CA 91801（老店）&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;a href=&quot;https://farm8.staticflickr.com/7633/17015187205_52609419e3_o.jpg&quot; title=&quot;fengmao by Ping Yin, on Flickr&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7633/17015187205_52609419e3_o.jpg&quot; width=&quot;3264&quot; height=&quot;2448&quot; alt=&quot;fengmao&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;&lt;a href=&quot;https://www.flickr.com/photos/132244335@N04/17015187205&quot; title=&quot;fengmao by Ping Yin, on Flickr&quot;&gt;滋味成都&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;性价比低。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;牙签羊肉&lt;/strong&gt;：很好吃，点的人也多。没有失望，但是很贵，分量一般。$14.99&lt;/p&gt;
+
+&lt;p&gt;伤心凉粉：很一般，和别家差不多。价格$6.99。 贵&lt;/p&gt;
+
+&lt;p&gt;藤椒鱼： 就是青椒片鱼，鱼肉是美国的中餐常用的那种，不知道是什么鱼，非常大片，口感很差。$12.99&lt;/p&gt;
+
+&lt;p&gt;子姜牛肉：姜其实很少，牛肉用的还是低档牛肉，口感不好，相信自己做的更好吃。$13.99&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/chinese/%E6%B4%9B%E6%9D%89%E7%9F%B6/&quot;&gt;LA&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on March 22, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[fire phone 中文输入法 等设置]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/chinese/fire%20phone%20%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95%E7%AD%89%E8%AE%BE%E7%BD%AE/" />
+  <id>//localhost:4000/chinese/fire phone 中文输入法等设置</id>
+  <updated>2015-01-21T00:00:00-00:00</updated>
+  <published>2015-01-21T00:00:00-08:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;恢复初始设置后，界面变为亚马逊自带界面，输入法只有系统自带的英文输入法。
+需要按照如下设置调整：&lt;/p&gt;
+
+&lt;h4 id=&quot;section&quot;&gt;1. 预备步骤：&lt;/h4&gt;
+
+&lt;p&gt;进入设置settings -&amp;gt; Applications &amp;amp; Parental Controls -&amp;gt; Allow non-Amazon app installation -&amp;gt; App Installation 改成 “on”.&lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;2. 用浏览器搜索&lt;/h4&gt;
+
+&lt;p&gt;“appchina”（应用汇），“wandoujia”（豌豆荚），或者“coolapk”（酷市场）。并下载安装这几个第三方市场。第一次安装的时候，会弹出一个系统对话框，说“为了安全起见，系统禁止安装第三方软件”. 点击右边的方框&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;3. 安装第三方桌面：&lt;/h4&gt;
+
+&lt;p&gt;打开应用汇，或者豌豆荚，搜索”雅虎桌面”（“Yahoo Aviate Launcher”）。并 下载安装。安装后点done.  再按一下home按键，弹出一个对话框要你选择默认的桌面程序，点一下刚刚安装的aviate， 然后点done。
+这个雅虎桌面比之前手机里我安装的dodal 桌面要好，因为这个桌面可以设置壁纸。
+雅虎桌面默认页是带壁纸的那页，下方可以自己添加一些图标，上面是搜索框，搜索框里可以输入联系人、软件名字进行快速查找。雅虎桌面往右划一页，是分类的自动调整的软件，方便你打开最常用的软件。再往右划是“所有程序”。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;4. 安装第三方输入法：&lt;/h4&gt;
+
+&lt;p&gt;去上面提到的三个第三方市场里，下载并安装所需的输入法,比如百度输入法。安装后不需要打开。&lt;/p&gt;
+
+&lt;p&gt;下载并安装nookcolor tools, 下载地址（用手机的浏览器打开，并在手机里直接下载）：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;链接: 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;http://pan.baidu.com/s/1c00DZji&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;pre&gt;&lt;code&gt;密码: fj8a
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;安装好nookcolor tools后，打开，点击 “All Settings” -&amp;gt; “Language &amp;amp; Keyboard”, 勾选上刚刚安装的输入法。返回。点击”Choose Keyboard”, 选择刚刚安装的输入法。
+	返回。设置完毕。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-4&quot;&gt;5. 同步联系人：&lt;/h4&gt;
+
+&lt;p&gt;去第三方市场下载“QQ同步”，打开后用QQ登录。（如果需要从3种设置里选择）选择第一项。等待同步完成。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-5&quot;&gt;6. 更改手机默认拨号软件：&lt;/h4&gt;
+
+&lt;p&gt;去第三方市场下载安装“EX拨号”，非常好用。之后凡是询问默认联系人、拨号的，就选择”EX拨号“。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-6&quot;&gt;7. 安装其他软件吧。&lt;/h4&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/chinese/fire%20phone%20%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95%E7%AD%89%E8%AE%BE%E7%BD%AE/&quot;&gt;fire phone 中文输入法 等设置&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on January 21, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[MAC下LaTex插入pdf图片]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/chinese/MAC%E4%B8%8B%E6%8F%92%E5%85%A5LaTex%E5%9B%BE%E7%89%87/" />
+  <id>//localhost:4000/chinese/MAC下插入LaTex图片</id>
+  <updated>2015-03-31T00:00:00-00:00</updated>
+  <published>2014-10-15T00:00:00-07:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;ul&gt;
+  &lt;li&gt;我是用的是MacTex 2014，不需要把.pdf先转成.eps，直接用&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;\begin{figure}[H]
+\centering
+\includegraphics[scale = 0.5]{hw1pics.pdf}
+\caption{random value from 1 to n}
+\end{figure}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;就可以插入图片。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;使用了\usepackage{graphicx}&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;尤其注意文件名不能带有&lt;code&gt;.&lt;/code&gt;， 比如hw1.1.pdf 会不被识别。只能是hw1.pdf。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;注意finder有没有隐藏文件类型。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/chinese/MAC%E4%B8%8B%E6%8F%92%E5%85%A5LaTex%E5%9B%BE%E7%89%87/&quot;&gt;MAC下LaTex插入pdf图片&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on October 15, 2014.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[UCSD第一年生活总结，刚来美国的建议]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/chinese/UCSD%E7%AC%AC%E4%B8%80%E5%B9%B4%E7%94%9F%E6%B4%BB%E6%80%BB%E7%BB%93/" />
+  <id>//localhost:4000/chinese/UCSD第一年生活总结</id>
+  <updated>2014-07-08T00:00:00-00:00</updated>
+  <published>2014-07-08T00:00:00-07:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;h2 id=&quot;section&quot;&gt;来美之前的准备&lt;/h2&gt;
+
+&lt;p&gt;事实上绝大部分的东西在UCSD附近的中国超市（大华），都是有卖的。举个例子：中国的炒菜锅、刀、各种香料（桂皮、八角、辣椒……）。这边买不到或者比较难买到的东西：凉席，但是不建议带，太重了，可以在美国网购水星家纺，就是比国内贵很多；比较正宗的家乡的辣椒，但是这个你也犯不着带……我都比较难想到，所以日常生活其实没有什么东西非要从中国带来。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;刚下飞机&lt;/h2&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;电话&lt;/h3&gt;
+
+&lt;p&gt;说一下ATT的。2013年ATT推出了一个mobile shared value plan，无限通话和短信，一个group里所有人share一大包流量。最划算的是10个人一组，share 10G。平均每人分得1G（当然也可以1个人用了9G，其他9个人只用了1G，ATT不管你具体使用情况，但是一个组如果实际使用超过10G就得多出钱）。算下来每个人每个月不到30（每个手机每月固定15+10G总套餐分给每个人的$10钱，以及一些税）。这是带自己手机的情况下。&lt;/p&gt;
+
+&lt;p&gt;如果签合约拿手机，则每个月多出25。 合约每次签2年，24个月。很不推荐，因为比不签合约多出了$600，完全够买一个手机了……而且合约机还要先出一部分钱，比如$699的手机，你要先出$199，签2年合约。真的不划算！
+另外，如果不是很着急的话，就用国内带来的手机，等到感恩节的时候，一定会有很好的offer！比如$0购机，也就是不需要出那个$199。但是依然没有不签合约划算。肯定也有其他的deals。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;银行&lt;/h3&gt;
+
+&lt;p&gt;其实Chase，BOA, Citi各有好处，事实上过了1年我三个银行都有checking账户：）&lt;/p&gt;
+
+&lt;p&gt;有些人觉得Chase和BOA，美国国家会支持，经济不好也不会垮台。问题是，现在经济难道差到Citi要破产了？那还有众多小银行怎么办？Fidelity，Wells Fargo咋办？？而且对于小额账户，就算破产也会赔偿你的，你能有几千几万块？&lt;/p&gt;
+
+&lt;p&gt;办理银行账户真心不需要管那么远的事情，我认为就两点：&lt;/p&gt;
+
+&lt;p&gt;A. ATM多！还不一定要branch多，只要免ATM费就好了&lt;/p&gt;
+
+&lt;p&gt;B. bonus多！&lt;/p&gt;
+
+&lt;p&gt;说一下三大银行的特点：&lt;/p&gt;
+
+&lt;h4 id=&quot;boa&quot;&gt;BOA：&lt;/h4&gt;
+
+&lt;p&gt;目前有开checking送$100的bonus。没有bonus的话不建议开。&lt;/p&gt;
+
+&lt;p&gt;有个museum program，免费去一些博物馆水族馆（不过一般正价门票不到20）。我是看中这个才决心办他家。
+对将来办理他家信用卡，可能，有好处。&lt;/p&gt;
+
+&lt;p&gt;最少要每个月direct dipost $250才免月费.&lt;/p&gt;
+
+&lt;h4 id=&quot;chase&quot;&gt;Chase:&lt;/h4&gt;
+
+&lt;h6 id=&quot;checking-200bonusebaybonus50100&quot;&gt;1. 经常有开checking 送$200得bonus，如果没有的话，也可以去ebay上花几块钱买一个。或者去邮局自己拿。学校里的bonus不一定是最好的！往往只有$50或者$100而已！！&lt;/h6&gt;
+
+&lt;h6 id=&quot;chase-freedomchasechecking-account&quot;&gt;2. 对将来办理他们家信用卡，一定，有好处。比如Chase freedom信用卡，有个朋友被拒就是说没有Chase的checking account.&lt;/h6&gt;
+
+&lt;h6 id=&quot;atmucsdbranch&quot;&gt;3. ATM真的是众多，UCSD学校里面也有branch.&lt;/h6&gt;
+
+&lt;h6 id=&quot;direct-deposit25checking-direct-dipositbonusdirect-dipositbonus&quot;&gt;4. 需要direct deposit来免月费。对于25岁以下的有学生checking 账户，可以不用direct diposit也免月费。但是学生账户没有bonus。可以先开个普通账户，打direct diposit拿到bonus之后再改成学生账户。&lt;/h6&gt;
+
+&lt;h4 id=&quot;citi&quot;&gt;Citi:&lt;/h4&gt;
+
+&lt;h6 id=&quot;citi-forward&quot;&gt;1. 开账户的时候可以顺便申请一张Citi Forward信用卡，对于没有任何信用记录的人来说，方便积累信用。&lt;/h6&gt;
+
+&lt;h6 id=&quot;order&quot;&gt;2. 可以免费送支票，不需要order费用。其他银行似乎只免费送几张而已。&lt;/h6&gt;
+
+&lt;p&gt;如果你有SSN和收入，可以去申请Discover卡，门很低，但是benefit却很棒。&lt;/p&gt;
+
+&lt;p&gt;开checking没有bonus。branch和ATM都比较少。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;日常购物&lt;/h3&gt;
+
+&lt;p&gt;没什么好说了，多去slickdeals.net上看帖子，找deals。就有惊喜~&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/chinese/UCSD%E7%AC%AC%E4%B8%80%E5%B9%B4%E7%94%9F%E6%B4%BB%E6%80%BB%E7%BB%93/&quot;&gt;UCSD第一年生活总结，刚来美国的建议&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on July 08, 2014.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[忽然觉得自己长大了]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/chinese/%E9%95%BF%E5%A4%A7/" />
+  <id>//localhost:4000/chinese/长大</id>
+  <updated>2013-10-17T00:00:00-00:00</updated>
+  <published>2013-10-17T00:00:00-07:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;当自己学会煮饭、洗菜、摘菜、切工、炒菜、洗碗等等一系列厨房工作后，我真的很惭愧和内疚。&lt;/p&gt;
+
+&lt;p&gt;昨天晚上做了4道菜，芹菜炒牛肉，豆腐，土豆片，和雪里红炒肉。从晚上8点做到12点。做完后把它们分装在4个便当盒子里面，然后就躺在床上动弹不得了。站了4个多小时，好累。厨房里还是一片狼藉，所有用过的锅碗瓢盆还油腻腻地留在那里。所有的油盐酱醋、蚝油、辣椒酱还乱七八糟地躺在台子上。忽然间明白，家里有客人的时候，老妈总是做了一大桌丰盛的菜，但是自己却不会和我们一起吃。因为实在是太累了。&lt;/p&gt;
+
+&lt;p&gt;以前，我总是以很讨厌油污为由从来不碰厨房里的东西。非但如此，对老妈精心烹调的一些菜，只要有一点不合自己的口味，就闻都不会闻一下，而且直接说不好吃。老妈的厨艺是相当好的，那些我以前评价不好吃的东西，放到现在说不定就是美味了。而她可能当时也只是想多玩一点花样而已，却被我无情地打击了。老爸也是这样。有时候老妈不在家，爸爸做饭没有妈妈的好吃，我也不会动一下筷子。&lt;/p&gt;
+
+&lt;p&gt;自己以前对父母真的坏透了。&lt;/p&gt;
+
+&lt;p&gt;我决定在我第一次回家之前，每个月从工资里存一点钱，到时候给他们惊喜。&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/chinese/%E9%95%BF%E5%A4%A7/&quot;&gt;忽然觉得自己长大了&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on October 17, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[来UCSD的第一天]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/chinese/%E6%9D%A5UCSD%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/" />
+  <id>//localhost:4000/chinese/来UCSD的第一天</id>
+  <updated>2013-09-07T00:00:00-00:00</updated>
+  <published>2013-09-07T00:00:00-07:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;昨天来的UCSD，下午把Student ID和银行卡办理了。
+不得不说UCSD的Student ID印刷质量还没有我交的好，特别模糊劣质的感觉，而且是类似银行卡的那种刷卡的卡，不是交大那种感应卡。&lt;/p&gt;
+
+&lt;p&gt;银行办的是Citi Bank。原来这就是花旗银行。不知道BoA 或者Chase是不是也是这样，进去银行后就是几个职员各自坐在类似沙发的办公桌上，然后我们去和他们交谈说要办理什么业务就是了。人很少，基本上没有等待。只有存钱什么的需要去大柜台。（也许是我还没办理什么其他的业务吧。）&lt;/p&gt;
+
+&lt;p&gt;然后是电话卡。由于实在不喜欢那边的手机型号，而且目前只凑了5个人办不了10人的share plan，不得不先暂时缓缓。&lt;/p&gt;
+
+&lt;p&gt;昨天还稍微逛了一下校园。UCSD号称拥有UC 系列里面积最大的校园，确实不为过。但是！大部分地方都是树啊！好荒凉没啥人的感觉啊！另外我原以为1960年才建校的UCSD东西应该蛮新的，没想到那个学校的标志性建筑：图书馆，居然如此黄黄旧旧的感觉。而且从外面看还很小！完全没有我交一半的地面大小。但是据说这图书馆还有地下部分，我还没去看过，今天打算去瞧瞧……还有所谓学校的“母亲河”也根本就不是下面这样蓝色的嘛。（也有可能是我时机不太好吧……）&lt;/p&gt;
+
+&lt;p&gt;不过话说回来，虽然建筑外表看起来稍微旧一点，其实里面的装潢那不用说的，非常赞！图书馆还没去就先不说了。我现在所在的地方是UCSD的Price Center里面的Green House，感觉就是大家自习的地方，有10台公用PC，10台公用Mac。地面全部铺的是绿色地毯，然后有N多组围坐在一起的沙发……洗手间呢，是自动出水、自动出洗手液、以及自动出擦手纸的……跟麦当劳手一晃就启动吹风机类似。&lt;/p&gt;
+
+&lt;p&gt;UCSD的黄种人学生特别多！不过本来圣地亚哥的居民就有40%的亚裔了（听host family说的，没去查证）。但是别随便碰到一个看起来像中国人的学生就说中文，因为人家很可能是resident. 昨天我在校园免费shuttle上就碰到一个旧金山来的大四学生，非常友善，告诉我怎么去图书馆。。而且他们好像本科毕业后并不是一定要马上读研究生的样子，这位就打算先工作一年。具体的话，限于英语水平，没多问……&lt;/p&gt;
+
+&lt;p&gt;中午在Subway第一次买事物的时候那不是一般的尴尬。我往那一站，面前全是各种各样的cheese、火腿、甘蓝什么的。。重要的是，很多东西我自己都说不上来是什么。另外我也不知道从何点起。只见那个黑人伙计问了我3次，每次都超快的语速，完全没听懂他到底要我点什么……炯死了。&lt;/p&gt;
+
+&lt;p&gt;最后要说的是，昨晚住在基督教徒的host family家里。一开始我没有心理准备，因为那个host family的家长黄先生一直和我用中文聊天的。不过我有发现他可能是台湾人，因为他用的繁体字。到了他家之后才真的感觉到基督教徒的家庭生活！也许是个例吧，但是确实雷到我了：&lt;/p&gt;
+
+&lt;p&gt;（1）没有电视机！他们家可以说除了有一台电脑，毫无娱乐可言。家里的台式机子我也一晚上没有看到他们有谁用过。我就更加不敢碰了。&lt;/p&gt;
+
+&lt;p&gt;（2）睡觉超级早！他们11岁的儿子9点半就睡了，两个大人10点钟睡觉。神奇的是我没怎么看到孩子写作业……（难道已经做完了？）他今天有乐理课，所以和我和黄先生不约而同晚上6点多才到家。一进门就是一架钢琴，一个大提琴，壁炉（姑且叫壁炉，但是我感觉从来不生火的）前的茶几上只有一个他特别爱玩的乐高的飞机模型，壁炉左边是一个天文望远镜。&lt;/p&gt;
+
+&lt;p&gt;（3）主无处不在！壁炉上面有一个像框，像框里面不是照片，使手写的祷告词：“主啊！……”客厅还有一个大书架，里面全是旧约什么的书，以及一排排我看不懂的文字的基督书……挂历写的不是“公元”多少年，而是“主后2013年”。一路走到自己的房间都是祷告词的相框。最后吃晚饭的时候，我已经料到了，祷告！他们三个人闭眼轮流说祷告词，其中一个人说一句，停一下，三个人一起说“Remen”（我听到的大概就是这个，没理解），然后那个人继续说下一句话。&lt;/p&gt;
+
+&lt;p&gt;今天看看笔记本，把手机搞定~&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/chinese/%E6%9D%A5UCSD%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/&quot;&gt;来UCSD的第一天&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on September 07, 2013.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[This is a sample technique post]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/english/sample/" />
+  <id>//localhost:4000/english/sample</id>
+  <updated>2015-03-31T00:00:00-00:00</updated>
+  <published>2000-03-31T00:00:00-08:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;To be finished…&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/english/sample/&quot;&gt;This is a sample technique post&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on March 31, 2000.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[这是一个中文文章样本]]></title>
+  <link rel="alternate" type="text/html" href="//localhost:4000/chinese/%E6%A0%B7%E6%9C%AC/" />
+  <id>//localhost:4000/chinese/样本</id>
+  <updated>2015-03-31T00:00:00-00:00</updated>
+  <published>2000-01-01T00:00:00-08:00</published>
+  
+  <author>
+    <name>小独裁者</name>
+    <uri>//localhost:4000</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;To be finished…&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;//localhost:4000/chinese/%E6%A0%B7%E6%9C%AC/&quot;&gt;这是一个中文文章样本&lt;/a&gt; was originally published by 小独裁者 at &lt;a href=&quot;//localhost:4000&quot;&gt;小独裁者的国度&lt;/a&gt; on January 01, 2000.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
