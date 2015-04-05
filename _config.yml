@@ -6,7 +6,7 @@ url:              //yinping4256.github.io/myblog
 #url:            //localhost:4000
 
 # Jekyll configuration
-paginate: 8
+paginate: 30
 paginate_path: "page:num"
 # paginate_path: "nav/Chinese/age:num"
 
