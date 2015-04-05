@@ -9,5 +9,4 @@ image:
   creditlink: 
 ---
 
-Hello everyone.
-
+Hello everyone. This page hasn't been set up yet. Please check it back later.
