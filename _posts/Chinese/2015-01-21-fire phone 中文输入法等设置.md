@@ -5,7 +5,7 @@ excerpt: "恢复初始设置后，界面变为亚马逊自带界面，输入法�
 需要按照如下设置调整"
 modified: 2015-01-21
 category: chinese
-tags: [Chinese, ]
+tags: [技术]
 comments: true
 image:
   feature: 
