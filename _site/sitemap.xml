@@ -128,13 +128,4 @@
   <url>
     <loc>//localhost:4000/tags.html</loc>
   </url>
-  <url>
-    <loc>//localhost:4000/page2/</loc>
-  </url>
-  <url>
-    <loc>//localhost:4000/page3/</loc>
-  </url>
-  <url>
-    <loc>//localhost:4000/page4/</loc>
-  </url>
 </urlset>
