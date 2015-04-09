@@ -4,7 +4,7 @@ title: fire phone 中文输入法 等设置
 excerpt: "恢复初始设置后，界面变为亚马逊自带界面，输入法只有系统自带的英文输入法。
 需要按照如下设置调整"
 modified: 2015-01-21
-category: chinese
+category: cn
 tags: [技术]
 comments: true
 image:

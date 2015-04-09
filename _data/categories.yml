@@ -1,10 +1,10 @@
-- slug: cn
+- slug: chinese
   name: Chinese
   color: '#3498db'
 
-- slug: en
+- slug: english
   name: English
   color: '#3498db'
 
 - slug: cc
-  name: credit card
+  name: creditcard

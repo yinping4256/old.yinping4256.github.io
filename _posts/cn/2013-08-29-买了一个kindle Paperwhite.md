@@ -5,7 +5,7 @@ excerpt: ""
 modified: 2013-08-29
 tags: [自传]
 comments: true
-category: chinese
+category: cn
 image:
   feature: 
   credit: 

@@ -5,7 +5,7 @@ excerpt: ""
 modified: 2015-03-31
 tags: [tech]
 comments: true
-category: english
+category: en
 image:
   feature: 
   credit: 
