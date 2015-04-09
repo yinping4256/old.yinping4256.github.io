@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "如何提高你的信用分？"
+title: "如何快速提高信用分？"
 modified:
 categories: cc
 excerpt:
-tags: []
+tags: [信用卡]
 image:
   feature:
 date: 2015-04-09T00:26:20-07:00
