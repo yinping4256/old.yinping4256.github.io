@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第一张信用卡申请哪张好？"
+title: "第一张信用卡申请哪张好？(待完成）"
 modified:
 categories: cc
 excerpt:
