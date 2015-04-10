@@ -12,3 +12,5 @@ image:
 
 #### [Discover it 学生版](http://bit.ly/1yawBY4)
 > [http://bit.ly/1yawBY4](http://bit.ly/1yawBY4)
+
+用这个链接申请Discover it卡，你我可以各得$50的开卡奖励。
