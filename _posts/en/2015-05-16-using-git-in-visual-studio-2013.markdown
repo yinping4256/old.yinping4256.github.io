@@ -25,9 +25,7 @@ To be concise, to use Visual Studio 2013 and let Git connect to a third party Gi
 
 1. Create the project repository remotely on your Git server, eg, git.ucsd.edu. 
 
-2. Copy the "https" address of your repository.
-
-![图像超链接](//yinping4256.github.io/images/2015-05-16 00.35.15.png)
+2. Copy the "https" address of your repository. ![图像超链接](//yinping4256.github.io/images/2015-05-16 00.35.15.png)
 
 3. Open Visual Studio 2013. Create a new project(UNchecking "using git source control"), save it to any place you like. 
 
