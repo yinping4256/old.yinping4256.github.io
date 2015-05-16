@@ -14,3 +14,9 @@ image:
 > [http://bit.ly/1yawBY4](http://bit.ly/1yawBY4)
 
 用这个链接申请Discover it卡，你我可以各得$50的开卡奖励。
+
+#### [MUnited Explorer](https://applynow.chase.com/FlexAppWeb/renderApp.do?PID=CFFD2&SPID=FDJ4&CELL=6RKH&MSC=1516285101&fb_ref=Default)
+
+![united explorer](//yinping4256.github.io/images/2015-05-16 01.37.29.png)
+
+你可以拿到50,000 + 5,000 points 的bonus，每年最好的offer了。用这个链接申请，我可以得到5k点的奖励。
