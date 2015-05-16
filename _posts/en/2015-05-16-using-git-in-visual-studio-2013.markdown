@@ -4,7 +4,7 @@ title: "Using Git in Visual Studio 2013 in CSE 160 UCSD"
 modified:
 categories: en
 excerpt:
-tags: []
+tags: [tech]
 image:
   feature:
 date: 2015-05-16T00:16:55-07:00
