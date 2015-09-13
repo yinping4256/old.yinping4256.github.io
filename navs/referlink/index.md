@@ -15,7 +15,8 @@ image:
 
 用这个链接申请Discover it卡，你我可以各得$50的开卡奖励。Discover it 学生版，几乎是门槛最低的卡，特别适合刚来美国拿到SSN的留学生申请的第一张卡！与普通Discover it卡benefits完全相同，建议永久保留。
 
-2015年12月31日之前申请，有12个月的double cashback！{: .notice}
+2015年12月31日之前申请，有12个月的double cashback！
+{: .notice}
 
 <!---
 #### [United Explorer](https://applynow.chase.com/FlexAppWeb/renderApp.do?PID=CFFD2&SPID=FDJ4&CELL=6RKH&MSC=1516285101&fb_ref=Default)
