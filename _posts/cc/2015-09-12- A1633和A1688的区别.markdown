@@ -4,6 +4,7 @@ title: "A1633和A1688的区别：A1633不支持中国电信？错！"
 modified:
 categories: cc
 excerpt:
+comments: true
 tags: [信用卡]
 image:
   feature:

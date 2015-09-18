@@ -5,6 +5,7 @@ modified:
 categories: en
 excerpt:
 tags: [tech]
+comments: true
 image:
   feature:
 date: 2015-05-16T00:16:55-07:00
