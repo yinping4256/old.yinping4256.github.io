@@ -4,6 +4,7 @@ title: "如何快速提高信用分？(待完成)"
 modified:
 categories: cc
 excerpt:
+comments: true
 tags: [信用卡]
 image:
   feature:

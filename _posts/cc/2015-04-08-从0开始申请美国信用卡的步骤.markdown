@@ -3,6 +3,7 @@ layout: post
 title: "从0开始了解美国信用卡"
 modified:
 categories: cc
+comments: true
 excerpt:
 tags: [信用卡]
 image:

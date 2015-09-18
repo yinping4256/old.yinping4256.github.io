@@ -4,6 +4,7 @@ title: "专门开了一个信用卡类别"
 modified:
 categories: cc
 excerpt:
+comments: true
 tags: [信用卡]
 image:
   feature:
