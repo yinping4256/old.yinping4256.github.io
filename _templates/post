@@ -1,10 +1,15 @@
 ---
 layout: {{ layout }}
 title: {{ title }}
+excerpt:
 modified:
 categories: {{ dir }}
 excerpt:
 tags: []
+comments: true
 image:
-  feature:
+  feature: 
+  credit: 
+  creditlink: 
 ---
+{% include _toc.html %}
