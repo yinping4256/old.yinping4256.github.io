@@ -1,0 +1,107 @@
+---
+layout: post
+title: "Jekyll网站的中文优化设置"
+excerpt:
+modified:
+categories: cn
+excerpt:
+tags: [jekyll,技术]
+comments: true
+image:
+  feature: 
+  credit: 
+  creditlink:
+date: 2015-09-19T16:36:48-07:00
+---
+
+{% include _toc.html %}
+
+一般来说，要让Jekyll上的网站显示中文更美观，更方便自己撰写内容，至少需要做下面几件事。
+
+## 取消段首缩进
+
+首先找到
+
+_sass/variables.scss
+{: .notice}
+
+{% highlight css %}
+$doc-font-size: 16;
+$doc-line-height: 26;
+$paragraph-indent: true !default;
+$base-font: 'PT Serif', serif;
+$heading-font: 'PT Sans Narrow', sans-serif;
+$code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+$alt-font: $base-font;
+{% endhighlight %}
+
+把上面的`paragraph-indent` 如果是`true` 就改成**false**.
+
+## 修改字体
+
+主要就是改base-font. 这里默认字体是：`PT Serif`， 而且是衬线体serif，非常不适合用作中文文章的正文字体。
+
+大家可以参考这篇文章来选择自己中意的字体
+
+[中文字体网页开发指南](http://www.ruanyifeng.com/blog/2014/07/chinese_fonts.html){:target="_blank"}
+
+## 换行方法
+
+取消段首缩进后，每一新段落都会顶格开始，并且两段之间会留有比较大的段落间距。比如：
+
+{% highlight text %}
+
+段落一。
+
+段落二。
+
+{% endhighlight %}
+
+效果如下：
+
+---
+
+段落一。
+
+段落二。
+
+---
+
+如果我确实想要两个段落之间不要有段落间距，应该怎么办呢？
+
+如果只是单纯地这样写(去掉两段之间的空行）：
+
+{% highlight text %}
+
+段落一。
+段落二。
+
+{% endhighlight %}
+
+效果如下：
+
+---
+
+段落一。
+段落二。
+
+---
+
+所以，应该使用markdown的一个语法：换行。你只需要在上一个例子中的`段落一。`后面多打2个以上的空格，再打一个回车，然后写`段落二`, 那么就会出现理想的效果。
+
+
+{% highlight text %}
+
+段落一。()()
+段落二。
+
+{% endhighlight %}
+
+效果如下：
+
+---
+
+段落一。  
+段落二。
+
+

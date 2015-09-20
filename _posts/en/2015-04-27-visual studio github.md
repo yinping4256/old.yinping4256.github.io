@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let vitual studio work with github
+title: Let visual studio work with github
 excerpt: ""
 modified: 2015-04-27
 tags: [tech]
