@@ -1,0 +1,40 @@
+---
+layout: post
+title: "本地测试jekyll的方法"
+excerpt:
+modified:
+categories: cn
+excerpt:
+tags: []
+comments: true
+image:
+  feature: 
+  credit: 
+  creditlink:
+date: 2015-09-19T17:43:38-07:00
+---
+
+打开terminal导航到项目所在根目录，运行：
+
+bundle exec jekyll serve --watch
+{: .notice}
+
+加watch是可以让server监视post的修改而即时编译新的网页。
+
+如果没有错误的话，会提示：
+
+{% highlight text %}
+Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+{% endhighlight %}
+
+这时候就可以打开浏览器，输入地址：<http://127.0.0.1:4000/> 或者 <http://localhost:4000>.
+
+---
+
+创建文章的话使用命令：
+
+octopress new post "post title" --dir **category**
+{: .notice}
+
+category就是文章目录的名字。
