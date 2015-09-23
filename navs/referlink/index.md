@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 信用卡refer link
+title: refer link
 tags: 
 modified: 2015-4-8
 image:
@@ -8,7 +8,7 @@ image:
   credit: 
   creditlink: 
 ---
-以下是我的个人的信用卡推荐链接, 从我的链接点进去申请信用卡的话, 信用卡公司会给我一定程度的奖励. 如果觉得我的文章有所帮助, 可以以这种方式支持我. 谢谢! 
+以下是我的一些推荐链接。 
 
 #### [Discover it 学生版](http://bit.ly/1yawBY4)
 2015年12月31日之前申请，有12个月的double cashback！
@@ -18,6 +18,15 @@ image:
 用这个链接申请Discover it卡，你我可以各得$50的开卡奖励。Discover it 学生版，几乎是门槛最低的卡，特别适合刚来美国拿到SSN的留学生申请的第一张卡！与普通Discover it卡benefits完全相同，建议永久保留。
 
 
+#### Starbucks注册送free drink
+
+星巴克注册送Free Drink(http://refer.starbucks.com/v2/share/6197789948248077068)
+
+"You get a free drink just for joining the program and opting in to receive email—and I’ll receive Bonus Stars (good toward free drinks and food) when you sign up."
+
+加入星巴克的Rewards Program,注册的时候勾选“接收email通知”（拿到free drink后可再取消），可以获得一杯任意价格的免费星巴克饮料。
+
+用注册的账号以后可以直接在手机app上在星巴克门店扫描二维码付款，并且累积rewards，非常方便。
 
 <!---
 #### [United Explorer](https://applynow.chase.com/FlexAppWeb/renderApp.do?PID=CFFD2&SPID=FDJ4&CELL=6RKH&MSC=1516285101&fb_ref=Default)
