@@ -20,7 +20,7 @@ image:
 
 #### Starbucks注册送free drink
 
-星巴克注册送Free Drink(http://refer.starbucks.com/v2/share/6197789948248077068)
+[星巴克注册送Free Drink](http://refer.starbucks.com/v2/share/6197789948248077068){:target="_blank"}
 
 "You get a free drink just for joining the program and opting in to receive email—and I’ll receive Bonus Stars (good toward free drinks and food) when you sign up."
 
