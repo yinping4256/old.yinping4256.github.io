@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "购物技巧:利用cashback网站省钱"
+title: "购物技巧:利用cashback返利网站省钱"
 excerpt:
 modified:
 categories: cn
 excerpt:
-tags: []
+tags: [生活]
 comments: true
 image:
   feature: 
@@ -15,3 +15,95 @@ date: 2015-09-24T14:23:29-07:00
 ---
 
 {% include _toc.html %}
+
+类似于中国的“返利网”，美国购物也有很多返利网站。利用好返利网站购物有时候会给你意想不到的收获。
+
+这儿有我在两个返利网获得cashback:
+
+<figure>
+  <a href="/images/cashback1.png"><img src="/images/cashback1.png"></a>
+  <figcaption>Givingassistant</figcaption>
+</figure>
+
+<figure>
+  <a href="/images/cashback2.png"><img src="/images/cashback2.png"></a>
+  <figcaption>TopCashback</figcaption>
+</figure>
+
+---
+
+## 工作原理
+
+登陆返利网站，找到你要购物的网站，比如bestbuy.com吧. 从返利网给定的链接点过去，会打开一个新页面到bestbuy.com的主页。这时候你再像平时在bestbuy.com购物一样，checkout，你的任务就完成了。
+
+之后bestbuy会通知返利网，说有客户
+从你这链接过来下了一个 $xx.99 的订单。返利网站根据这个金额，和当时的返利比例，再给你的返利网账号打钱。
+
+当你的账号里有钱之后，你就可以把钱转到自己的paypal、银行账号，或者让它寄个支票给你。不同返利网站有不同的规定，
+有的设置了阈值，就是要你的账号达到某个最低数额(比如$5)之后才能redeem。
+
+---
+
+## 注意与建议
+
+1. 为了避免返利网跟单跟丢了，就是说它不知道你是从返利网点过去下单的，最好每次通过返利网购物的时候，新建隐身窗口，
+从头登陆操作，不要在原有窗口里操作。
+
+2. 如果真的跟丢了，各个返利网一般都可以file a claim，反馈给网站客服，他们会人工处理。
+
+3. 不同返利网对商户的返利比例不同，比如best buy，有的返1%, 有的1.5%, 有的却有5%. 购物之前注意比较。同一个返利网对同一商户，在不同的时间也可能有不同的返现比例。这个比例一般是固定的，但是经常会搞活动而增高。
+
+4. 特别注意返利网对商户返利的条款和要求，这往往是通过小字描述的。如果看到`up to` X% cashback 这样的字样就格外小心，up to的这个最高比例的返现，很可能是有特殊门类和条件的。
+
+<figure>
+  <a href="/images/cashback3.jpg"><img src="/images/cashback3.jpg"></a>
+  <figcaption>pay attention to "term&conditions"</figcaption>
+</figure>
+
+---
+
+## 选择cashback网
+
+比较老的一些网站喜欢推荐Ebates. 其实Ebates是我用过的最差的返利网之一了。
+
+评价一个返利网好不好，有几个关键因素:
+
+#### 返现比例
+
+这个直接决定了你可以通过这个返利网获得的利益，显然返现比例要越高越好。
+
+#### 商户个数
+
+当然是越多越好了。
+
+#### 跟单稳定性
+
+就算返现比例高，但是如果总是出现丢单的问题，那收益就是0了。所以稳定性也要好。
+
+#### 返现等待周期
+
+当然，cashback越早到手里越好。有的返利网1周甚至3-4天之内就可以把钱打到账户上，有的却要等到6-8周。我说的等待周期是指
+从下单到可以redeem获得的cashback。大部分返利网可以很快追踪到你的订单，并且把获得的返利以**pending**形式放在账户里。但是**pending**的返利是不能redeem的，还是要等很久才能最终变成**payable**状态，才能申请支票或者打到银行、paypal账户。
+
+#### Redeem容易度
+
+Redeem的阈值当然是越低越好，毕竟大家又不是人人都是购物狂。如果返现要达到$25才能redeem的话，那不知道要买多少东西等多久才能redeem了。
+
+Ebates商户个数比较全，但返现比例算偏差的，稳定性偏好，等待周期up to 30 days, redeem要每3个月才给一次，阈值是$5。
+
+下面我推荐我个人喜欢用的几个返利网：
+
+## cashback网推荐
+
+#### [TopCashback](http://www.topcashback.com/ref/yinping4256){:target="_blank"}
+
+###### 返现比例:高
+
+TopCashback算是返现比例最高的几个cashback网站之一。大家可以拿几个自己常去的网站对比一下返利比例：bestbuy, walmart, homedepot等等。可能偶尔出现一两个不是比例最高的，但是平均而言TopCashback的返利比应该属于最好的几个之一。
+
+###### 商户个数: 比较全
+
+###### 跟单稳定性：中上
+
+###### 返现等待周期：
+
