@@ -28,6 +28,8 @@ image:
 
 用注册的账号以后可以直接在手机app上在星巴克门店扫描二维码付款，并且累积rewards，非常方便。
 
+Free drink会在注册1周后load到你的账号里，有效期一般为3天。如果忘记使用而expire了，可以打电话给星巴克，他们会再补一个给你。
+
 <!---
 #### [United Explorer](https://applynow.chase.com/FlexAppWeb/renderApp.do?PID=CFFD2&SPID=FDJ4&CELL=6RKH&MSC=1516285101&fb_ref=Default)
 
