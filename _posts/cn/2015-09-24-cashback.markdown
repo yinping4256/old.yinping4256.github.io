@@ -93,17 +93,96 @@ Ebates商户个数比较全，但返现比例算偏差的，稳定性偏好，�
 
 下面我推荐我个人喜欢用的几个返利网：
 
+---
+
 ## cashback网推荐
 
-#### [TopCashback](http://www.topcashback.com/ref/yinping4256){:target="_blank"}
+#### [TopCashback 点此注册](http://www.topcashback.com/ref/yinping4256){:target="_blank"}
 
-###### 返现比例:高
+应该是2013还是2014年才出来的比较新的cashback网站，一上来就以`the most generous cashback website` 自居。
+
+我记得当时有个从topcashback链接到godaddy注册域名送$35的活动。由于注册一个域名有时候只要$1，很多人开了很多小号去撸。不过后来TopCashback发现了，事件最后怎样我就不清楚了。有些人说自己拿到了$35， 也有很多人说后来根本就没给$35. 总之，这是一个比ebates之流好很多的cashback网站。
+
+###### 返现比例 ★★★★☆
 
 TopCashback算是返现比例最高的几个cashback网站之一。大家可以拿几个自己常去的网站对比一下返利比例：bestbuy, walmart, homedepot等等。可能偶尔出现一两个不是比例最高的，但是平均而言TopCashback的返利比应该属于最好的几个之一。
 
-###### 商户个数: 比较全
+###### 商户个数 ★★★★☆
 
-###### 跟单稳定性：中上
+###### 稳定性 ★★★★☆
 
-###### 返现等待周期：
+###### 等待周期 ★★☆☆☆
+
+至少6周，一般是7周。
+
+###### Redeem ★★★★★
+
+可以转到paypal，没有最低redeem要求。
+
+---
+
+#### [GivingAssistant 点此注册](https://givingassistant.org/)
+
+这家是2015年才出来的非常新的返利网。它有个特点：从这家链接到商家购物，会被认定和慈善购物有点关系。可能这样会让商家少交点税，所以给的cashback比例往往很高。它可以绑定一个debit card后直接把cashback打到银行卡上。同时，你也可以选择在获得的cashback中捐一定比例给某个你指定的慈善机构。当然，你完全可以选择0%给他们，自己拿100%.
+
+###### 返现比例:★★★★☆
+
+我猜测因为和慈善有关系，商家乐意给更多的钱给GivingAssistant，所以我们拿到的cashback也很高。往往比TopCashback更高。对了，它独家支持Amazon **全品种** 5%的返利，只要是`ships from and sold by Amazon` 的全都qualify。其他返利网有可能给出更高的offer，比如topcashback有6%， 但是它只局限于在一些我们比较不太去的品种department，比如 **Home Improvement, Jewelry, Handbags & Wallets, Women’s Shoes, Men's Shoes and Kids' Shoes.**
+
+###### 商户个数 ★★☆☆☆
+
+一般常见的大商店它还是有的，但是品种要和其他普通的返利网比的话，就差得多了。虽然自称是有1080个商家，但是连GNC都没有。可以说它的商户个数是偏少的。
+
+###### 稳定性 ★★★★☆
+
+非常稳定，下单后当天会收到邮件通知track到了你的交易。而且网站列举所有的交易非常清晰，一目了然。
+
+###### 等待周期 ★★★★★
+
+独门绝技，超短等待周期！一般不超过7天，我一般是3-5天就收到了cashback。注意，这里收到的cashback是直接打到银行卡里，就是说只要3-5天就达到payable状态，可以拿钱。这和其他返利网动辄1个月以上的等待周期比较来看，简直是逆天！！
+
+###### Redeem ★★★★★
+
+基本上只要拿到cashback，如果转到paypal或者直接绑定debit card，只要$1的minimum amount的阈值。鉴于这家网站的返利比例很高，$1是非常容易达到的。所以redeem根本不用担心。最重要的是，如果绑定debit card，它会自动检测你的cashback是否有$1, 一旦达到$1它就会自动把钱打到银行卡里。所以用户都不用什么操作，特别省心。
+
+---
+
+#### [DiscoverDeals 点此注册](https://www.discovercard.com/)
+
+这个是Discover信用卡里的附属功能。位置在此：
+
+<figure>
+  <a href="/images/cashback4.jpg"><img src="/images/cashback4.jpg"></a>
+  <figcaption>Discover Deals"</figcaption>
+</figure>
+
+这家和别家最大的不同在于，它要求结账的时候必须使用你自己的Discover卡。如果用其他方式结账，就不会获得cashback。
+
+###### 返现比例 ★★★★★
+
+这家返现比一般是最高的。因为它强制你必须用他自家的Discover信用卡，本来信用卡公司就会收取商家不菲的手续费，所以Discover完全可以从手续费中挪一点过来当做cashback来吸引用户。
+
+###### 商户个数 ★☆☆☆☆
+
+我猜它不屑于和小商户打交道，所以它支持的商家数量算很少的了。但是别忘了，只要它能支持，一般返利都很高。
+
+###### 稳定性 ★★★☆☆
+
+大概要好几天才邮件通知你交易被track到。收到邮件之前自己完全不知道交易是否会被Discover跟踪到。连Click记录都没有。但是我觉得一般来讲还是不会出问题的。注意用隐身模式打开新窗口登陆Discover。
+
+###### 等待周期 ★★☆☆☆
+
+Discover其实没有告诉你哪些交易获得了多少的cashback，每个月statement出来后rewards数会增加，但是就很难知道到底是哪个交易给的，给了多少了。甚至等待周期是多少都没有明确说明。我们只能但愿它系统没抽风，少算了我们哪个大交易……
+
+###### Redeem ★★★★★
+
+如果是把rewards当cash来redeem，是没有最低额度要求的。任何金额都可以转到银行，或者作为statement credit。
+
+其实兑换Gift card也是很不错的选择，像Gap, Nike gift card都是20买25等8折买到。比gift card的市场价要低很多。如果确实有有需要的giftcard，并且和市场价比较一下价值，再兑换说不定比直接兑cash更划算。
+
+不建议用来支付Amazon.com
+
+
+
+
 
