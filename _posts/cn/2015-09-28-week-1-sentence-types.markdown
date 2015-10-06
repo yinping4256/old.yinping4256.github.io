@@ -22,7 +22,7 @@ adjective clause: 形容词性的句子, 即`定语从句`.
 
 ---
 
-## 什么是`一个`英语句子: What is `a` clause?
+## 什么是**一个**英语句子: What is **a** clause?
 
 **subject + verb**， 主语+动词(谓语)
 {: .notice}
