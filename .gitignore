@@ -1,2 +1,4 @@
 _site
 _config.yml
+*.scssc
+assets/css/main.scss.txt
