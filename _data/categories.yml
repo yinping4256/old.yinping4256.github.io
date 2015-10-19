@@ -6,5 +6,5 @@
   name: English
   color: '#3498db'
 
-- slug: cc
-  name: creditcard
+#- slug: cc
+#  name: creditcard

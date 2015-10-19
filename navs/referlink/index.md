@@ -10,7 +10,7 @@ image:
 ---
 以下是我的一些推荐链接。 
 
-#### [Discover it 学生版](http://bit.ly/1yawBY4)
+## [Discover it 学生版](http://bit.ly/1yawBY4)
 2015年12月31日之前申请，有12个月的double cashback！
 {: .notice}
 <a href="http://bit.ly/1yawBY4"><img src="//yinping4256.github.io/images/2015-05-16 01.47.40.png"></a>
@@ -18,7 +18,7 @@ image:
 用这个链接申请Discover it卡，你我可以各得$50的开卡奖励。Discover it 学生版，几乎是门槛最低的卡，特别适合刚来美国拿到SSN的留学生申请的第一张卡！与普通Discover it卡benefits完全相同，建议永久保留。
 
 
-#### Starbucks注册送free drink
+## Starbucks注册送free drink
 
 [星巴克注册送Free Drink](http://refer.starbucks.com/v2/share/6197789948248077068){:target="_blank"}
 

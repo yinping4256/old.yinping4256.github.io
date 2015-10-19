@@ -11,8 +11,8 @@
 - title: 标签(Tags)
   url: /navs/archived/
 
-- title: 信用卡
-  url: /navs/creditcard/
+#- title: 信用卡
+#  url: /navs/creditcard/
 
 - title: 推荐Referlink
   url: /navs/referlink/
