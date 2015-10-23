@@ -110,15 +110,12 @@ Fire Phone高调发布。就像乔布斯发布苹果手机一样，贝索斯也�
 事实是我太天真。
 
 安装好谷歌服务后，我首先换了一个桌面。自带的桌面太难用。但是桌面还不能随便选个launcher。大部分的launcher安装后都是黑色背景，并且无法更改背景图片。我记得只有极少数的launcher（比如yahoo aviate launcher），由于它自己生成了一个桌面背景，从而不需要正常android里的有而火机系统里没有的“桌面”概念，于是桌面背景终于不是压抑的纯黑了！！但是即便如此，这极少数的launcher也不能很稳定的运行，差不多隔三差五就要歇工，它自带的桌面背景也会忽然变黑。这个时候重启可以解决……
-<figure>
+
+<figure class="half">
   <a href="/images/firephone8.jpg"><img src="/images/firephone8.jpg"></a>
-  <figcaption>yahoo aviate launcher</figcaption>
-</figure>
-<figure>
   <a href="/images/firephone9.jpg"><img src="/images/firephone9.jpg"></a>
   <figcaption>yahoo aviate launcher</figcaption>
 </figure>
-
 
 接着解决输入法。google play上下载的第三方输入法，由于火机系统没有设置输入法的地方，所以完全无法使用。于是，利用了kindle fire里的一个方法，安装了一个叫nook tools的东西(忘记确切名字）。可以在那里面设置。但是，第三方输入法容易崩溃，有时候就调用不出来，会变成系统自带的，这个时候又得重新弄一次。
 
