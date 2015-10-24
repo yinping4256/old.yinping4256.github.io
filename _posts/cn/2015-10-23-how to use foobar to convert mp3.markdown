@@ -11,7 +11,7 @@ image:
   feature: 
   credit: 
   creditlink:
-date: 2015-10-22T14:20:33-07:00
+date: 2015-10-23T14:20:33-07:00
 ---
 
 {% include _toc.html %}
