@@ -28,7 +28,7 @@ date: 2015-10-24T14:20:33-07:00
 
 * GoldWave 软件，用来观察声谱图<https://www.goldwave.com/release.php>{:target="_blank"}
 
-* Foobar，lame、aac encoder包，参考此文: [利用foobar将无损转mp3/aac教程]({{ site.url }}/how%20to%20use%20foobar%20to%20convert%20mp3/){:target="_blank"}
+* Foobar，lame、aac encoder包，参考此文: [利用foobar将无损转mp3/aac教程]({{ site.url }}/cn/how%20to%20use%20foobar%20to%20convert%20mp3/){:target="_blank"}
 
 * 一个无损音频文件：我选择的是李宗盛的"山丘"。链接：http://pan.baidu.com/s/1bnjtIft 密码：numl
 
