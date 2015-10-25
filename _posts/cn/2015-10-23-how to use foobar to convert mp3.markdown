@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用foobar将无损转mp3/aac教程"
+title: "私人云音乐库(二):利用foobar将无损转mp3/aac教程"
 excerpt:
 modified:
 categories: cn
@@ -16,10 +16,10 @@ date: 2015-10-23T14:20:33-07:00
 
 {% include _toc.html %}
 
-我在[私人云音乐库：网易云音乐还是Groove]({{ site.url }}/cn/private%20music%20cloud/){:target="_blank"}谈到要打造自己的私人音乐库。受于云空间大小的限制、移动端减少流量消耗考虑，我们最好先把无损音乐转为音质较好的mp3或者AAC文件存储在云端。
+我在[私人云音乐库(一)：网易云音乐还是Groove]({{ site.url }}/cn/private%20music%20cloud/){:target="_blank"}谈到要打造自己的私人音乐库。受于云空间大小的限制、移动端减少流量消耗考虑，我们最好先把无损音乐转为音质较好的mp3或者AAC文件存储在云端。
 
 本文主要介绍在拥有无损音乐格式文件后，如何通过foobar将其转为特定比特率的mp3/aac文件。
-至于无损转有损选择多少比特率，可以参考我的这篇文章[音质与大小的权衡:不同比特率比较]({{ site.url }}/cn/mp3%20kbps%20comparison/){:target="_blank"}.
+至于无损转有损选择多少比特率，可以参考我的这篇文章[私人云音乐库(三)：音质与大小的权衡:不同比特率比较]({{ site.url }}/cn/mp3%20kbps%20comparison/){:target="_blank"}.
 
 ### 安装Foobar
 
@@ -40,7 +40,7 @@ date: 2015-10-23T14:20:33-07:00
 
 如果双击.cue文件双击后Foobar无法播放对应的.ape, 则可能是.cue文件标题等出错，用记事本或其他文本编辑器打开后对照.pe文件的文件名看有无出入。
 
-### 下载lame的mp3编码器
+### 下载编码器
 
 lame是mp3格式的编码器中较好的一款，同样比特率下文件更小音质更好。Foobar不内置lame编码器，但是可以在转换的时候指定lame.exe工作。下载地址：
 

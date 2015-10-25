@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "音质与大小的权衡:不同比特率"
+title: "私人云音乐库(三)：音质与大小的权衡:不同比特率"
 excerpt:
 modified:
 categories: cn
