@@ -16,247 +16,126 @@ date: 2015-10-26T00:42:52-07:00
 
 {% include _toc.html %}
 
-Definition:  
-**Modifers**: a word or group of words that describe, limit, or qualify another word.  
-Goal:  
-Specific; concise; simple; positive.
+We should write **clear** and **direct** sentences.
+
+Rule: Fewer words.
 {: .notice}
 
-## Motivation
+## P1: Make the actors the subjects of your sentences
 
-To ensure your readers understand what you intended meaning, you can use the following principles.
+Differentiate grammatical subject from the real actor.
 
-## P1: Use Specific and Unambiguous Language
+Avoid:
 
-### Using Specific Language
+* It is XXXX to do ...
 
-Rule: Provide as more details as possible to transform a vague sentence to a specific one.
-{: .notice}
+* Our expectation was to do ... -> We expected to ...
 
-The details could be "what(exactly it is)", "which (exact ones)", "where (the exact location is)", "when (it will exactly happen)", and so on.
+* passive voice: a plan was selected -> someone selected a plan
 
-> A computer in **one of the rooms** is not working properly.
+### Use People as Subjects Whenever Possible
 
-Provide: where the rooms are; which exact computer is not working; in what way it is not working.
+Sensences without using people as subjects are impersonal and bureaucratic.
 
-> For its mission, the relief organization needs food and supplies.
+This rule is especially useful for writing instructions.
 
-Provide: what the mission is, which exact food/supplies they need.
+> The prescription drug card program will be eliminated effective at the end of the year.
 
-> We must have these frames **soon**, so we can complete the first floor of both buildings on schedule.
+You will begin using a new prescription drug program on Jan 1.
 
-Provide: a specific time (when) you need the frame. Place the time at the end of the sentence: to complete xxxxx , we must have these frames **by next week**.
+### Generally, Use the Active Voice
 
-### Using Unambiguous Language
+> The prescription drug card program will **be eliminated** effective at the end of the year.
 
-Ambiguity can come from: 
+**We will** eliminate the prescription drug card program at the end of the year.
 
-* Misplaced modifiers
+### Occasionally, Use the Passive Voice
 
-* Dangling modifiers
+Only when the actors are either unknown or unimportant can you use passive voice.
 
-* Stacked nouns
-
-* Faulty word choice
-
-#### Misplaced Modifiers
-
-Rule: Place modifiers as close as possible to the intended referent.
-{: .notice}
-
-> Our manager suggested to the vice president that we register for the class **in San Francisco**.
-
-This sentence has three meanings:
-
-1. Our manager suggested to the vice president (*in San Francisco*) ...
-
-2. ... that we register (*in San Francisco*) ...
-
-3. the class is in San Francisco = ... we register for the San Francisco class
-
-#### Dangling Modifers
-
-Rule: Identify the real subject of the modifers.
-{: .notice}
-
-This could be easily identified by most Chinese students because of extensive practice in high school.
-
-It means the modifers (usually a verb-like phrase) reference a wrong subject, that is the verb is executed by a wrong subject.
-
-> Trying to put out the fire, the fire extinguisher broke. 
-
-The subject that was "trying to put out the fire" can't be "the fire extinguisher". It must be a person. So the correct sentence could be "Trying to put out the fire, I broke the fire extinguisher. "
-
-#### Stacked Nouns
-
-Rule: Whenever possible, avoid using a noun to modify a noun.
-{: .notice}
-
-> The consultant suggested the manager allow time for a **fitness center member evaluation**.
-
-This stacked nouns could mean:
-
-1. **(fitness center member) evaluation**: evaluate the members in a fitness center.
-
-2. **(fitness center) (member evaluation)**: it is the members to evaluate the fitness center.
-
-#### Faulty Word Choice
-
-Rule: Choose the word which has less meanings.
-{: .notice}
-
-> We were **held up** at the bank.
-
-**Held up** means: 1. delayed; 2. robbed. 
-
-> The students will present Shakespeare's Hamlet in the school auditorium on Friday at 7:00 P.M. Parents are invited to attend this **tragedy**.
-
-**Tragedy** means: 1. the **type** of this play; 2. the (bad) quality of the performance;
+> Samples *are gathered** every six hours except between 6:00 P.M. and 10 P.M.
 
 ---
 
-## P2: Use only the Words Your Readers Need
+## Put the Action in Verbs
 
-Write concisely without redundant and unnecessary words.
+This happens when the verb does not express the action: eg. **conducting an investigation**.
 
-### Eliminating Redundancy
+### Identify Sentences in Which the Verb Does Not Express the Action
 
-Redundancy: the words and phraces which repeat the same meaning as other words in the sentence.
+> **There was** a discussion of the zoning orinances by the city council.
 
-#### Redundant Pairs
+The city council discussed the zoing ordinances.
 
-> Please give our proposal your **thought and consideration**.
+### Keep the Actor and the Action Together
 
-Correction： Please **consider** our proposal.
+Readers may forget the subjects(actors) if several words separate them from the verb.
 
-> Your solution can **help and benefit** the engineering division to better serve our community.
+> **Some managers**, because they have little training in human relations or insufficient managerial experience, **cannot handle** insubordinate employees.
 
-Correction： ... can **help <s> and benefit</s> ** the engineering division ...
-
-**Common Redundant Pairs table**
-
-|:--------|:-------|
-| advice and counsel   | first and foremost   | 
-| agreeable and satisfactory   | full and complete   | 
-| aid and assistance   | help and benefit   | 
-| any and all   | help and cooperation   | 
-| assist and help   | hope and trust   | 
-| basic and fundamental   | null and void   | 
-| due and payable   | opinion and belief   | 
-| each and every   | prompt and immediate   | 
-| fair and equitable   | thought and consideration   | 
-| fair and reasonable   | true and accurate   | 
-{: rules="groups"}
-
-#### Redundant Modifiers
-
-> **end** result
-
-Result must be the end, the **end** is useless here. 
-
-**Common Redundant Modifiers table**
-
-| Redundant Modifers | Concise Alternatives |
-|:--------|:-------|
-| absolutely essential| cell2   | 
-| absolutely free   | cell5   | 
-| anticipate in advance |    | 
-| basic fundamentals |    | 
-|circle around |    | 
-|  consensus of opinion|    | 
-| continue on |    | 
-|  decrease down|    | 
-|  each individual|    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    | 
-|  |    |  
-|  |    | 
-|  |    | 
-{: rules="groups"}
-
-#### Redundant Prepositional Phrases
-
-> The rock is pink **in color**, and 61 pounds **in weight**.
-
-The bold prepositional phrases could be deleted.
-
-### Eliminating Unnecessary Words
-
-#### Phrases that should be Replaced
-
-> add table here
-
-#### Phrases that should be Deleted
-
-> add table here
+Because they have little training in human relations or insufficient ..., some managers cannot handle insubordinate employees.
 
 ---
 
-## Use Simple Words
+## Emphasize the Important Information in Your Sentences
 
-Rule: Change **fancy** words to **simple, familiar, fewer-syllable** words. 
+### Put the Most Important Information at **the End**
 
-Use simple words help readers gather the information in need as quckly and effortlessly as possible.
+> The profits in January increased by 30 percent, **For example**.
 
-> add table
+**For example**, the profits in January increased by 30 percent.
 
----
+> You have not sent us your December progress report, **according to our records**.
 
-## Use Positive Language
+**According to our records**, you have not mailed us your December progress report.
 
-> add table
+### Put Unfamiliar Technical Terms at the End
 
----
+If you put them newar the beginning, readers do not have a context for understanding the unfamiliar terms.
 
-## Use Technical Terminology Consistently and Appropriately
+> Fast-twitch fibers and slow-twitch fibers are the two basic types of muscle fibers.
 
-Rule: Consistency.
-{: .notice}
-
-Use the same words to refer to technical concepts. Readers will be confused if you use two terms to refer to the same concept without explicitly telling them that the terms are interchangeable(they may think the two terms are different).  
-
-Rule: Define terminology.
-{: .notice} 
-
-1. Use parentheses the first time you use the terminology.
-
-2. Define them in glossary.
-
-Rule: Expert or general readers.
-{: .notice} 
-
-Use technical terminology for expert readers.
-
-Use nontechnical language whenever possible for other readers with casual or scant knowledge of your field.
+Muscles have two types of fibers: fast twitch and slow twitch.
 
 ---
 
-## Use Nonsexist Language
+## Tie Your Sentences Together
 
-Rule:   
-1. Use plural nouns   
-2. Use second-person pronouns: **you** and **your**.   
-3. mankind -> people or humankind ; man-made -> synthetic.   
-4. he/she -> he or she.
-{: .notice}
+Your readers probably don't uderstand how your sentences relate to each other. We need to order your sentences to guide our readers.
 
-**Nonsexist Alternatives for Sexist Nouns occupations**
+### Put Old Information Near the Beginning of a Sentence
 
-> add table
+Similar to ** Put Unfamiliar Technical Terms at the End**.
+
+### Use Topics to Tie Sentences Together
+
+Each paragraph should have only one topic, which can't be shifted over sentences in this paragraph. A paragraph may have sentences grouped in this way:
+
+* First sentence: indroduce the topic of this paragraph.
+
+* Second sentence: momments on that topic.
+
+* 3rd, 4th, 5th...: Comment further on the topic.
+
+The topics are usually the subjects in each sentence.
+
+The topic words of each sentence in the paragraph do not have to be the same. You just should not mention some topic that would surprise the readers.
+
+### Use Transitions
+
+Put transitions at or near the beginning of the sentence.
+
+> XXXX. XXXX, however.
+
+Change to: XXXX. However, XXXX.
+
+### Repeat or Restate Key Words or Phrases
+
+* Restate with Pronouns
+
+* Restate with Summary Words
+
+
+
+
+
