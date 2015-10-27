@@ -171,5 +171,5 @@ date: 2015-10-24T14:20:33-07:00
 
 我在360云盘里分享了两手曲子的无损和128kbps（aac压制）的版本，感兴趣的朋友可以下载听一下是否自己能听出差异，做一个ABX测试。
 
-<http://yunpan.cn/cF5PzazFZXneS> （提取码：22df）
+<http://yunpan.cn/cF5PzazFZXneS>{: .notice} （提取码：22df）
 {: .notice}
