@@ -126,7 +126,7 @@ date: 2015-10-24T14:20:33-07:00
 
 ## 压缩比特率的选择(以下均为aac)
 
-强烈建议大家决定比特率的时候使用ABX测试(<https://en.wikipedia.org/wiki/ABX_test>{:target="_blank"}}，而不要一味追求高音质而选择非常高的比特率。
+强烈建议大家决定比特率的时候使用ABX测试(<https://en.wikipedia.org/wiki/ABX_test>{:target="_blank"})，而不要一味追求高音质而选择非常高的比特率。
 
 毕竟，如果自己耳朵都听不出差别的话，就没有必要在移动场合还用特别高的比特率听歌了。
 
@@ -171,5 +171,5 @@ date: 2015-10-24T14:20:33-07:00
 
 我在360云盘里分享了两首曲子的无损和128kbps（aac压制）的版本，感兴趣的朋友可以下载听一下是否自己能听出差异，做一个ABX测试。
 
-<http://yunpan.cn/cF5PzazFZXneS>{: .notice} （提取码：22df）
+<http://yunpan.cn/cF5PzazFZXneS>{:target="_blank"} （提取码：22df）
 {: .notice}
