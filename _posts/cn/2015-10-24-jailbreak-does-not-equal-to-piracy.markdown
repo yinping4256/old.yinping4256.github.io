@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "为越狱正名：越狱≠盗版"
+title: "越狱后能做什么？越狱=盗版？"
 excerpt:
 modified:
 categories: cn
 excerpt:
-tags: [tech]
+tags: [技术]
 comments: true
 image:
   feature: 

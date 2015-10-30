@@ -3,7 +3,7 @@ layout: post
 title: 买了一个kindle Paperwhite
 excerpt: ""
 modified: 2013-08-29
-tags: [自传]
+tags: [生活]
 comments: true
 category: cn
 image:

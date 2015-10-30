@@ -5,7 +5,7 @@ excerpt:
 modified:
 categories: cn
 excerpt:
-tags: [tech]
+tags: [技术]
 comments: true
 image:
   feature: 

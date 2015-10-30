@@ -4,7 +4,7 @@ title: "为什么我喜欢新白"
 modified:
 categories: cn
 excerpt:
-tags: []
+tags: [生活]
 image:
   feature:
 date: 2015-04-08T22:29:22-07:00

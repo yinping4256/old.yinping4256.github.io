@@ -5,7 +5,7 @@ excerpt:
 modified:
 categories: cn
 excerpt:
-tags: [技术]
+tags: [技术,生活]
 comments: true
 image:
   feature: 

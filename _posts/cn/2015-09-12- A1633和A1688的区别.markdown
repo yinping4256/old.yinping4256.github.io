@@ -5,7 +5,7 @@ modified:
 categories: cn
 excerpt:
 comments: true
-tags: [信用卡]
+tags: [生活]
 image:
   feature:
 date: 2015-09-12T00:26:20-07:00
