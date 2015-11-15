@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Surface Book 使用体验(持续更新,10/30/2015)"
+title: "Surface Book 使用体验(持续更新,11/14/2015)"
 excerpt:
 modified:
 categories: cn
