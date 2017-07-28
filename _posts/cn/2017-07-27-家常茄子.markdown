@@ -28,11 +28,14 @@ image:
 这次用的是在韩国超市Zion店买的Korean Pepper. 这个炒出来比较香，吃起来又不辣。另一种辣椒green jalapeno辣味重的多，适合做小炒肉。而red jalapeno的话有点像湖南红辣椒的感觉，随便做一些小炒菜都还不错，就是比较贵。
 
 <figure>
-<a href="https://farm5.staticflickr.com/4317/36173852936_28fa2fbeef_b.jpg" title="fengmao by Ping Yin, on Flickr"><img src="https://farm5.staticflickr.com/4317/36173852936_28fa2fbeef_b.jpg" width="3264" height="2448" alt="fengmao"></a>
-  <figcaption><a href="https://www.flickr.com/photos/132244335@N04/36173852936" title="fengmao by Ping Yin, on Flickr">Korean pepper</a></figcaption>
+<a href="https://farm5.staticflickr.com/4317/36173852936_28fa2fbeef_b.jpg" title="Korean pepper by Ping Yin, on Flickr"><img src="https://farm5.staticflickr.com/4317/36173852936_28fa2fbeef_b.jpg" width="3264" height="2448" alt="Korean pepper"></a>
+  <figcaption><a href="https://www.flickr.com/photos/132244335@N04/36173852936" title="Korean pepper by Ping Yin, on Flickr">Korean pepper</a></figcaption>
 </figure>
 
-
+<figure>
+<a href="https://farm5.staticflickr.com/4317/36215331935_925e608d47_b.jpg" title="Green jalapeno by Ping Yin, on Flickr"><img src="https://farm5.staticflickr.com/4317/36215331935_925e608d47_b.jpg" width="3264" height="2448" alt="Green jalapeno"></a>
+  <figcaption><a href="https://www.flickr.com/photos/132244335@N04/36215331935" title="Green jalapeno by Ping Yin, on Flickr">Green jalapeno</a></figcaption>
+</figure>
 
 
 #### 芝麻辣椒酱
@@ -51,6 +54,11 @@ image:
 
 把茄子切成长条的片状(当然也可以是其他形状), 然后放到一个大容器里，均匀撒盐。过一段时间(大概十几分钟甚至更久)后茄子会出水变软，用手把茄子拧干，倒出挤出的水分。
 
+<figure>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/132244335@N04/35410321833/in/dateposted-public/" title="preparation"><img src="https://farm5.staticflickr.com/4325/35410321833_646318665a_b.jpg" width="768" height="1024" alt="preparation"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</figure>
+
+
 #### 炒肉末
 
 锅内倒油，油热后放姜蒜，炒出香味后放入肉末。肉末炒到8成熟的时候放入切好的korean pepper，继续炒香。肉全熟后盛出，放在一边。
@@ -62,8 +70,8 @@ image:
 ## 成品
 
 <figure>
-<a href="https://farm8.staticflickr.com/7612/16827417108_a1e0769bcc_o.jpg" title="fengmao by Ping Yin, on Flickr"><img src="https://farm8.staticflickr.com/7612/16827417108_a1e0769bcc_o.jpg" width="3264" height="2448" alt="fengmao"></a>
-  <figcaption><a href="https://www.flickr.com/photos/132244335@N04/16827417108" title="fengmao by Ping Yin, on Flickr">丰茂羊肉串</a></figcaption>
+<a href="https://farm5.staticflickr.com/4301/36173852886_40bf27b7cd_b.jpg" title="house eggplant by Ping Yin, on Flickr"><img src="https://farm5.staticflickr.com/4301/36173852886_40bf27b7cd_b.jpg" width="3264" height="2448" alt="fengmao"></a>
+  <figcaption><a href="https://www.flickr.com/photos/132244335@N04/36173852886" title="house eggplant by Ping Yin, on Flickr">家常茄子</a></figcaption>
 </figure>
 
 
